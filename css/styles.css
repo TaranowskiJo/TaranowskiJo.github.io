@@ -5,19 +5,20 @@ body{font-family:'Lato', sans-serif;font-size:16px}body.active{overflow:hidden;z
 /* project carousel *//* project carousel *//* project carousel */
 /* project carousel *//* project carousel *//* project carousel */
 .project-container {
-    height: 1100px;
+    height: 900px;
     background-color: #41739589;
 }
 /* carousel image */
 .slide {
-    height: 600px;
+    height: 550px;
+    margin-bottom: 5px;
 }
 /* image text */
 .img-head {
     font-size: 30px;
 }
 .img-cap {
-    font-size: 25px;
+    font-size: 20px;
     color: black;
     width: 50%;
     margin: 0 auto;
